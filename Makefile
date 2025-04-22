@@ -6,3 +6,4 @@ tests_run:
 
 all:
 	@echo "Compilation complète !"
+	@echo "coucou"
